@@ -728,9 +728,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -1303,9 +1300,6 @@ importers:
       react-infinite-scroll-component:
         specifier: ^6.1.0
         version: 6.1.0(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -2715,9 +2709,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-redux:
         specifier: ^7.2.9
         version: 7.2.9(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -3207,9 +3198,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -3659,9 +3647,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -4059,9 +4044,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -4441,9 +4423,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -4838,9 +4817,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -5250,9 +5226,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -5659,9 +5632,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -6122,9 +6092,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -6501,9 +6468,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -6886,9 +6850,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -7265,9 +7226,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -7647,9 +7605,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -8083,9 +8038,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -8604,9 +8556,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -9185,9 +9134,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -9570,9 +9516,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -9946,9 +9889,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -10337,9 +10277,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -10855,9 +10792,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -11234,9 +11168,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -11616,9 +11547,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -12028,9 +11956,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -12410,9 +12335,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -12798,9 +12720,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -13177,9 +13096,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -13722,9 +13638,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -14137,9 +14050,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -14516,9 +14426,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -14895,9 +14802,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -15295,9 +15199,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -15677,9 +15578,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -16056,9 +15954,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -16441,9 +16336,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -17062,9 +16954,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -17613,9 +17502,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -17995,9 +17881,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -18392,9 +18275,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -18771,9 +18651,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -19150,9 +19027,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -19529,9 +19403,6 @@ importers:
       react-i18next:
         specifier: ^11.18.5
         version: 11.18.6(i18next@21.10.0)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-joyride:
-        specifier: ^2.3.0
-        version: 2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
       react-notification-system:
         specifier: ^0.4.0
         version: 0.4.0(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
@@ -23125,14 +22996,6 @@ packages:
 
   /@gar/promisify@1.1.3:
     resolution: {integrity: sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==}
-
-  /@gilbarbara/deep-equal@0.1.2:
-    resolution: {integrity: sha512-jk+qzItoEb0D0xSSmrKDDzf9sheQj/BAPxlgNxgmOaA3mxpUa6ndJLYGZKsJnIVEQSD8zcTbyILz7I0HcnBCRA==}
-    dev: false
-
-  /@gilbarbara/deep-equal@0.3.1:
-    resolution: {integrity: sha512-I7xWjLs2YSVMc5gGx1Z3ZG1lgFpITPndpi8Ku55GeEIKpACCPQNS/OTqQbxgTCfq0Ncvcc+CrFov96itVh6Qvw==}
-    dev: false
 
   /@hapi/hoek@9.3.0:
     resolution: {integrity: sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==}
@@ -34850,10 +34713,6 @@ packages:
       babel-plugin-macros:
         optional: true
 
-  /deep-diff@1.0.2:
-    resolution: {integrity: sha512-aWS3UIVH+NPGCD1kki+DCU9Dua032iSsO43LqQpcs4R3+dVv7tX0qBGjiVHJHjplsoUM2XRO/KB92glqc68awg==}
-    dev: false
-
   /deep-equal@1.1.2:
     resolution: {integrity: sha512-5tdhKF6DbU7iIzrIOa1AOUt39ZRm13cmL1cGEh//aqR8x9+tNfbywRf0n5FD/18OKMdo7DNEtrX2t22ZAkI+eg==}
     engines: {node: '>= 0.4'}
@@ -38937,14 +38796,6 @@ packages:
   /is-lambda@1.0.1:
     resolution: {integrity: sha512-z7CMFGNrENq5iFB9Bqo64Xk6Y9sg+epq1myIcdHaGnbMTYOxvzsEtdYqQUylB7LxfkvgrrjP32T6Ywciio9UIQ==}
     dev: true
-
-  /is-lite@0.8.2:
-    resolution: {integrity: sha512-JZfH47qTsslwaAsqbMI3Q6HNNjUuq6Cmzzww50TdP5Esb6e1y2sK2UAaZZuzfAzpoI2AkxoPQapZdlDuP6Vlsw==}
-    dev: false
-
-  /is-lite@1.2.1:
-    resolution: {integrity: sha512-pgF+L5bxC+10hLBgf6R2P4ZZUBOQIIacbdo8YvuCP8/JvsWxG7aZ9p10DYuLtifFci4l3VITphhMlMV4Y+urPw==}
-    dev: false
 
   /is-map@2.0.3:
     resolution: {integrity: sha512-1Qed0/Hr2m+YqxnM09CjA2d/i6YZNfF6R2oRAOj36eUdS6qIV/huPJNSEpKbupewFs+ZsJlxsjjPbc0/afW6Lw==}
@@ -43635,11 +43486,6 @@ packages:
       '@babel/runtime': 7.25.6
     dev: true
 
-  /popper.js@1.16.1:
-    resolution: {integrity: sha512-Wb4p1J4zyFTbM+u6WuO4XstYx4Ky9Cewe4DWrel7B0w6VVICvPwdOpotjzcf6eD8TsckVnIMNONQyPIUFOUbCQ==}
-    deprecated: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
-    dev: false
-
   /portfinder@1.0.32(supports-color@6.1.0):
     resolution: {integrity: sha512-on2ZJVVDXRADWE6jnQaX0ioEylzgBpQk8r55NE4wjXW1ZxO+BgDlY6DXwj20i0V8eB4SenDQ00WEaxfiIQPcxg==}
     engines: {node: '>= 0.12.0'}
@@ -45214,21 +45060,6 @@ packages:
       react: 18.3.1
     dev: false
 
-  /react-floater@0.7.9(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926):
-    resolution: {integrity: sha512-NXqyp9o8FAXOATOEo0ZpyaQ2KPb4cmPMXGWkx377QtJkIXHlHRAGer7ai0r0C1kG5gf+KJ6Gy+gdNIiosvSicg==}
-    peerDependencies:
-      react: 15 - 18
-      react-dom: 15 - 18
-    dependencies:
-      deepmerge: 4.3.1
-      is-lite: 0.8.2
-      popper.js: 1.16.1
-      prop-types: 15.8.1
-      react: 19.0.0-rc-3edc000d-20240926
-      react-dom: 19.0.0-rc-3edc000d-20240926(react@19.0.0-rc-3edc000d-20240926)
-      tree-changes: 0.9.3
-    dev: false
-
   /react-head@3.4.2:
     resolution: {integrity: sha512-mnl6u7E0SSzY9w+mExKGVz8vW/oObUTnj+vpRaZF6jcdjFcCGs0vl8MRwlRws56dye3f1CpzU7C/hz3b3S2BBA==}
     peerDependencies:
@@ -45332,16 +45163,6 @@ packages:
       throttle-debounce: 2.3.0
     dev: false
 
-  /react-innertext@1.1.5(@types/react@18.0.18)(react@19.0.0-rc-3edc000d-20240926):
-    resolution: {integrity: sha512-PWAqdqhxhHIv80dT9znP2KvS+hfkbRovFp4zFYHFFlOoQLRiawIic81gKb3U1wEyJZgMwgs3JoLtwryASRWP3Q==}
-    peerDependencies:
-      '@types/react': 18.0.18
-      react: '>=0.0.0 <=99'
-    dependencies:
-      '@types/react': 18.0.18
-      react: 19.0.0-rc-3edc000d-20240926
-    dev: false
-
   /react-inspector@5.1.1(react@18.3.1):
     resolution: {integrity: sha512-GURDaYzoLbW8pMGXwYPDBIv6nqei4kK7LPRZ9q9HCZF54wqXz/dnylBp/kfE9XmekBhHvLDdcYeyIwSrvtOiWg==}
     peerDependencies:
@@ -45365,29 +45186,6 @@ packages:
 
   /react-is@18.3.1:
     resolution: {integrity: sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==}
-
-  /react-joyride@2.9.2(@types/react@18.0.18)(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926):
-    resolution: {integrity: sha512-DQ3m3W/GeoASv4UE9ZaadFp3ACJusV0kjjBe7zTpPwWuHpvEoofc+2TCJkru0lbA+G9l39+vPVttcJA/p1XeSA==}
-    peerDependencies:
-      react: 15 - 18
-      react-dom: 15 - 18
-    dependencies:
-      '@gilbarbara/deep-equal': 0.3.1
-      deep-diff: 1.0.2
-      deepmerge: 4.3.1
-      is-lite: 1.2.1
-      react: 19.0.0-rc-3edc000d-20240926
-      react-dom: 19.0.0-rc-3edc000d-20240926(react@19.0.0-rc-3edc000d-20240926)
-      react-floater: 0.7.9(react-dom@19.0.0-rc-3edc000d-20240926)(react@19.0.0-rc-3edc000d-20240926)
-      react-innertext: 1.1.5(@types/react@18.0.18)(react@19.0.0-rc-3edc000d-20240926)
-      react-is: 16.13.1
-      scroll: 3.0.1
-      scrollparent: 2.1.0
-      tree-changes: 0.11.2
-      type-fest: 4.26.1
-    transitivePeerDependencies:
-      - '@types/react'
-    dev: false
 
   /react-lifecycles-compat@3.0.4:
     resolution: {integrity: sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==}
@@ -46842,14 +46640,6 @@ packages:
       ajv: 8.17.1
       ajv-formats: 2.1.1(ajv@8.17.1)
       ajv-keywords: 5.1.0(ajv@8.17.1)
-
-  /scroll@3.0.1:
-    resolution: {integrity: sha512-pz7y517OVls1maEzlirKO5nPYle9AXsFzTMNJrRGmT951mzpIBy7sNHOg5o/0MQd/NqliCiWnAi0kZneMPFLcg==}
-    dev: false
-
-  /scrollparent@2.1.0:
-    resolution: {integrity: sha512-bnnvJL28/Rtz/kz2+4wpBjHzWoEzXhVg/TE8BeVGJHUqE8THNIRnDxDWMktwM+qahvlRdvlLdsQfYe+cuqfZeA==}
-    dev: false
 
   /secure-compare@3.0.1:
     resolution: {integrity: sha512-AckIIV90rPDcBcglUwXPF3kg0P0qmPsPXAj6BBEENQE1p5yA1xfmDJzfi1Tappj37Pv2mVbKpL3Z1T+Nn7k1Qw==}
@@ -48544,20 +48334,6 @@ packages:
       punycode: 2.3.1
     dev: true
 
-  /tree-changes@0.11.2:
-    resolution: {integrity: sha512-4gXlUthrl+RabZw6lLvcCDl6KfJOCmrC16BC5CRdut1EAH509Omgg0BfKLY+ViRlzrvYOTWR0FMS2SQTwzumrw==}
-    dependencies:
-      '@gilbarbara/deep-equal': 0.3.1
-      is-lite: 1.2.1
-    dev: false
-
-  /tree-changes@0.9.3:
-    resolution: {integrity: sha512-vvvS+O6kEeGRzMglTKbc19ltLWNtmNt1cpBoSYLj/iEcPVvpJasemKOlxBrmZaCtDJoF+4bwv3m01UKYi8mukQ==}
-    dependencies:
-      '@gilbarbara/deep-equal': 0.1.2
-      is-lite: 0.8.2
-    dev: false
-
   /treeverse@2.0.0:
     resolution: {integrity: sha512-N5gJCkLu1aXccpOTtqV6ddSEi6ZmGkh3hjmbu1IjcavJK4qyOVQmi0myQKM7z5jVGmD68SJoliaVrMmVObhj6A==}
     engines: {node: ^12.13.0 || ^14.15.0 || >=16.0.0}
@@ -48916,11 +48692,6 @@ packages:
     resolution: {integrity: sha512-RAH822pAdBgcNMAfWnCBU3CFZcfZ/i1eZjwFU/dsLKumyuuP3niueg2UAukXYF0E2AAoc82ZSSf9J0WQBinzHA==}
     engines: {node: '>=12.20'}
     dev: true
-
-  /type-fest@4.26.1:
-    resolution: {integrity: sha512-yOGpmOAL7CkKe/91I5O3gPICmJNLJ1G4zFYVAsRHg7M64biSnPtRj0WNQt++bRkjYOqjWXrhnUw1utzmVErAdg==}
-    engines: {node: '>=16'}
-    dev: false
 
   /type-is@1.6.18:
     resolution: {integrity: sha512-TkRKr9sUTxEH8MdfuCSP7VizJyzRNMjj2J2do2Jr3Kym598JVdEksuzPQCnlFPW4ky9Q+iA+ma9BGm06XQBy8g==}
